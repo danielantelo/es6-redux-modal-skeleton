@@ -1,0 +1,5 @@
+--compilers es6:babel-core/register
+--require tests/config.js
+--recursive
+--reporter spec
+tests/
